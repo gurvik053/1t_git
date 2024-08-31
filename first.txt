@@ -1,2 +1,3 @@
 text
 line from master
+line from new branch
